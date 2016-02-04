@@ -1,0 +1,8 @@
+body {
+  background: #333;
+}
+
+#viewer canvas {
+  display: block;
+  margin: 0 auto;
+}
